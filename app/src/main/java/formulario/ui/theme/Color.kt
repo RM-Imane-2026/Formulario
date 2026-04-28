@@ -1,4 +1,4 @@
-package com.example.formulario.ui.theme
+package formulario.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
