@@ -1,4 +1,4 @@
-package com.example.formulario.ui.theme
+package formulario.ui.theme
 
 import android.app.Activity
 import android.os.Build
